@@ -1,0 +1,13 @@
+01. Arduino Mega
+02. Gas Sensor --> Model: MQ5
+03. PIR Sensor
+04. VIbration Sensor
+05. Temperature Sensor --> Model: DHT22
+06. Servo Motor
+07. Keypad(4*4)
+08. LCD Display
+09. Jumper Wire
+10. DC Motor
+11. FAN
+12. LED
+13. Power-Bank
